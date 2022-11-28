@@ -1,0 +1,30 @@
+body {
+  background: url(collegelogocblur-2.jpg);
+}
+.back {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #00ffff;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+h1.type {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #740274;
+}
+h2.type {
+  font-family: serif;
+  font-weight: bold;
+  color: #027402;
+  font-size: 30px;
+}
+.column {
+  float: left;
+  width: 20%;
+  padding: 25px;
+}
+p {
+  padding-left: 1px;
+}
